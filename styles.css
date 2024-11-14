@@ -1,0 +1,17 @@
+h2 {
+    margin: 0 0 20px 0;
+    background-color: chocolate;
+}
+
+div {
+    margin-top: 40px;
+    background-color: yellow; 
+}
+
+p {
+    margin-top: 30px;
+    background-color: rgb(255, 0, 247); 
+}
+
+/*Margin of 40 is applied since it is the largest*/
+
